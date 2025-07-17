@@ -1,8 +1,73 @@
-[{
-  "id": 1,
-  "title": "Simple Math Quiz",
-  "questions": [
-    { "question": "What is 2 + 3?", "options": ["4", "5", "6"], "answer": "5" },
-    { "question": "What is 6 - 2?", "options": ["2", "3", "4"], "answer": "4" }
-  ]
-}]
+[
+  {
+    "id": 1,
+    "title": "Math Adventure Quiz",
+    "levels": [
+      {
+        "level": "Easy",
+        "questions": [
+          {
+            "question": "What is 2 + 3?",
+            "options": ["4", "5", "6"],
+            "answer": "5"
+          },
+          {
+            "question": "What is 6 - 2?",
+            "options": ["2", "3", "4"],
+            "answer": "4"
+          },
+          {
+            "question": "How many sides does a triangle have?",
+            "options": ["3", "4", "5"],
+            "answer": "3"
+          }
+        ]
+      },
+      {
+        "level": "Moderate",
+        "questions": [
+          {
+            "question": "What is 7 x 6?",
+            "options": ["42", "36", "48"],
+            "answer": "42"
+          },
+          {
+            "question": "What is half of 100?",
+            "options": ["50", "25", "10"],
+            "answer": "50"
+          },
+          {
+            "question": "Which number is a multiple of both 2 and 3?",
+            "options": ["5", "6", "9"],
+            "answer": "6"
+          }
+        ]
+      },
+      {
+        "level": "Hard",
+        "questions": [
+          {
+            "question": "What is 12 ÷ 3 + 2 x 4?",
+            "options": ["12", "8", "10"],
+            "answer": "12"
+          },
+          {
+            "question": "What is the perimeter of a square with side length 5?",
+            "options": ["20", "25", "10"],
+            "answer": "20"
+          },
+          {
+            "question": "What is 3² + 4²?",
+            "options": ["25", "12", "16"],
+            "answer": "25"
+          },
+          {
+            "question": "If a car travels 60 km in 1.5 hours, what is its speed?",
+            "options": ["40 km/h", "45 km/h", "50 km/h"],
+            "answer": "40 km/h"
+          }
+        ]
+      }
+    ]
+  }
+]
