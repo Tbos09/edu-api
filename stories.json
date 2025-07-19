@@ -1,37 +1,131 @@
 [
   {
     "id": 1,
+    "title": "The Lost Pencil",
     "grade_level": "1-3",
-    "title": "The Lost Puppy",
-    "text": "One day, a small puppy got lost in the park. It barked and barked until a little girl named Mia found it and took it home.",
+    "text": "Lebo lost her pencil at school. She looked under the table and behind the books. At last, she found it in her pocket!",
     "questions": [
       {
-        "question": "Who found the lost puppy?",
-        "options": ["Tom", "Mia", "John"],
-        "answer": "Mia"
-      },
-      {
-        "question": "Where was the puppy lost?",
-        "options": ["In the forest", "At home", "In the park"],
-        "answer": "In the park"
+        "question": "Where did Lebo find her pencil?",
+        "options": ["Under the table", "In her pocket", "Behind the books", "In her bag"],
+        "answer": "In her pocket"
       }
     ]
   },
   {
     "id": 2,
-    "grade_level": "4-6",
-    "title": "The Science Fair Surprise",
-    "text": "Sibongile worked hard on her science fair project. On the day of the fair, she was nervous. But when the judges came by, they were impressed and gave her the first prize!",
+    "title": "Zinzi and the Cat",
+    "grade_level": "1-3",
+    "text": "Zinzi found a small cat outside her home. She gave it milk and it purred happily.",
     "questions": [
       {
-        "question": "What event was Sibongile preparing for?",
-        "options": ["A party", "A science fair", "A race"],
-        "answer": "A science fair"
-      },
+        "question": "What did Zinzi give the cat?",
+        "options": ["Water", "Milk", "Bread", "Juice"],
+        "answer": "Milk"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Red Balloon",
+    "grade_level": "1-3",
+    "text": "Thabo had a red balloon. The wind blew it up, up, up until it popped!",
+    "questions": [
       {
-        "question": "What prize did Sibongile win?",
-        "options": ["Second", "Third", "First"],
-        "answer": "First"
+        "question": "What happened to the balloon?",
+        "options": ["It flew away", "It popped", "It burst", "It went down"],
+        "answer": "It popped"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Rainy Day",
+    "grade_level": "1-3",
+    "text": "It rained all day. Sipho wore his raincoat and jumped in puddles.",
+    "questions": [
+      {
+        "question": "What did Sipho wear?",
+        "options": ["T-shirt", "Raincoat", "Jacket", "Scarf"],
+        "answer": "Raincoat"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Nana’s Birthday",
+    "grade_level": "1-3",
+    "text": "Nana had a cake with five candles. She blew them out and made a wish.",
+    "questions": [
+      {
+        "question": "How many candles were on the cake?",
+        "options": ["Four", "Five", "Six", "Ten"],
+        "answer": "Five"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The Science Fair",
+    "grade_level": "4-6",
+    "text": "At the school science fair, Lethabo made a volcano using baking soda and vinegar. It was a hit!",
+    "questions": [
+      {
+        "question": "What did Lethabo build?",
+        "options": ["A robot", "A volcano", "A rocket", "A bridge"],
+        "answer": "A volcano"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The Soccer Match",
+    "grade_level": "4-6",
+    "text": "The school team played hard and won the game in the last minute with a goal by Siphiwe.",
+    "questions": [
+      {
+        "question": "Who scored the last goal?",
+        "options": ["Lebo", "Siphiwe", "Thuli", "Kabelo"],
+        "answer": "Siphiwe"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Reading Contest",
+    "grade_level": "4-6",
+    "text": "Zama read 15 books in a month and won the reading contest!",
+    "questions": [
+      {
+        "question": "How many books did Zama read?",
+        "options": ["10", "12", "15", "20"],
+        "answer": "15"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Helping Granny",
+    "grade_level": "4-6",
+    "text": "Nomusa helps her granny clean the garden every Saturday morning.",
+    "questions": [
+      {
+        "question": "What does Nomusa help with?",
+        "options": ["Cooking", "Cleaning", "Reading", "The garden"],
+        "answer": "The garden"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "The Secret Map",
+    "grade_level": "4-6",
+    "text": "A group of friends found a secret map in an old book and followed it to discover a hidden cave.",
+    "questions": [
+      {
+        "question": "Where did they find the map?",
+        "options": ["On the wall", "In an old book", "Under the bed", "At school"],
+        "answer": "In an old book"
       }
     ]
   }
