@@ -1,10 +1,38 @@
-[{
-  "id": 1,
-  "title": "The Brave Little Elephant",
-  "image": "https://example.com/images/elephant.png",
-  "text": "Once upon a time in the jungle, a little elephant named Timo helped his friends find water during a long drought...",
-  "questions": [
-    { "question": "Who is the main character?", "options": ["Timo", "Leo the Lion", "Sally the Snake"], "answer": "Timo" },
-    { "question": "What did Timo help his friends find?", "options": ["Food", "Water", "Shelter"], "answer": "Water" }
-  ]
-}]
+[
+  {
+    "id": 1,
+    "grade_level": "1-3",
+    "title": "The Lost Puppy",
+    "text": "One day, a small puppy got lost in the park. It barked and barked until a little girl named Mia found it and took it home.",
+    "questions": [
+      {
+        "question": "Who found the lost puppy?",
+        "options": ["Tom", "Mia", "John"],
+        "answer": "Mia"
+      },
+      {
+        "question": "Where was the puppy lost?",
+        "options": ["In the forest", "At home", "In the park"],
+        "answer": "In the park"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "grade_level": "4-6",
+    "title": "The Science Fair Surprise",
+    "text": "Sibongile worked hard on her science fair project. On the day of the fair, she was nervous. But when the judges came by, they were impressed and gave her the first prize!",
+    "questions": [
+      {
+        "question": "What event was Sibongile preparing for?",
+        "options": ["A party", "A science fair", "A race"],
+        "answer": "A science fair"
+      },
+      {
+        "question": "What prize did Sibongile win?",
+        "options": ["Second", "Third", "First"],
+        "answer": "First"
+      }
+    ]
+  }
+]
